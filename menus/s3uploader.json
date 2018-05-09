@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle s3uploader",
+        "command": "s3uploader:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "s3uploader",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "s3uploader:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
