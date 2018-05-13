@@ -14,5 +14,18 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "atom": "^1.1.0",
+    "etch": "^0.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.8.2",
+    "prettier": "^1.12.1"
+  },
+  "scripts": {
+    "lint": "eslint ."
   }
 }
