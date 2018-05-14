@@ -5,9 +5,6 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "s3uploader:toggle"
-  },
   "repository": "https://github.com/atom/s3uploader",
   "license": "MIT",
   "engines": {
