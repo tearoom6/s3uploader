@@ -1,10 +1,16 @@
 {
   "name": "s3uploader",
   "main": "./lib/s3uploader",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
-  "repository": "https://github.com/atom/s3uploader",
+  "version": "1.0.0",
+  "description": "Files uploader to Amazon S3 by drag & drop",
+  "keywords": [
+    "S3",
+    "Markdown",
+    "upload",
+    "drag",
+    "image"
+  ],
+  "repository": "https://github.com/tearoom6/s3uploader",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
