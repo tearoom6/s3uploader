@@ -1,7 +1,7 @@
 {
   "name": "s3uploader",
   "main": "./lib/s3uploader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Files uploader to Amazon S3 by drag & drop",
   "keywords": [
     "S3",
