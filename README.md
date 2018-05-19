@@ -10,7 +10,7 @@ It's designed to be convenient to use with [sync-sync](https://atom.io/packages/
 ## Features
 
 - [x] Upload files by drag & drop.
-- [ ] Upload files by copy & paste.
+- [x] Upload files by copy & paste.
 - [x] Upload files to Amazon S3.
 - [ ] Support multiple destination AWS account / S3 bucket.
 - [ ] Support other storage services.
