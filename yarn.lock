@@ -93,10 +93,6 @@ ast-types-flow@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/ast-types-flow/-/ast-types-flow-0.0.7.tgz#f70b735c6bca1a5c9c22d982c3e39e7feba3bdad"
 
-atom@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/atom/-/atom-1.1.0.tgz#3b56fd5ff7b2bbfcc686f38cfb80f067a2b7aedc"
-
 aws-sdk@^2.238.1:
   version "2.238.1"
   resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.238.1.tgz#a35fdec122ed915da490840e8828336da5be4e7f"

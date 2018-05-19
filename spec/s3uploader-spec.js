@@ -1,7 +1,5 @@
 'use babel'
 
-/* global atom, jasmine */
-
 import S3uploader from '../lib/s3uploader'
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
