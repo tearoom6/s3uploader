@@ -1,8 +1,8 @@
-'use babel';
+'use babel'
 
 /* global atom, jasmine */
 
-import S3uploader from '../lib/s3uploader';
+import S3uploader from '../lib/s3uploader'
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
@@ -10,15 +10,15 @@ import S3uploader from '../lib/s3uploader';
 // or `fdescribe`). Remove the `f` to unfocus the block.
 
 describe('S3uploader', () => {
-  let workspaceElement, activationPromise;
+  let workspaceElement, activationPromise
 
   beforeEach(() => {
-    workspaceElement = atom.views.getView(atom.workspace);
-    activationPromise = atom.packages.activatePackage('s3uploader');
-  });
+    workspaceElement = atom.views.getView(atom.workspace)
+    activationPromise = atom.packages.activatePackage('s3uploader')
+  })
 
   describe('when something happen', () => {
     it('do something', () => {
-    });
-  });
-});
+    })
+  })
+})
