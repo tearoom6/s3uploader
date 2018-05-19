@@ -2,7 +2,21 @@
 
 Files uploader to Amazon S3 by drag & drop.
 
+It's designed to be convenient to use with [sync-sync](https://atom.io/packages/sync-sync).
+
 ![usage](./images/usage.gif)
+
+
+## Features
+
+- [x] Upload files by drag & drop.
+- [ ] Upload files by copy & paste.
+- [x] Upload files to Amazon S3.
+- [ ] Support multiple destination AWS account / S3 bucket.
+- [ ] Support other storage services.
+- [x] Output as Markdown tag (image or link).
+- [x] Output as HTML tag (image or link).
+
 
 ## Usage
 
