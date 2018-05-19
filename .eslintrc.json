@@ -2,6 +2,12 @@
   "extends": "airbnb",
   "rules": {
     "arrow-parens": [ "error", "as-needed" ],
+    "class-methods-use-this": ["error", {
+      "exceptMethods": [
+        "writeLinks",
+        "writeLink"
+      ]
+    }],
     "comma-dangle": [ "error", "only-multiline" ],
     "function-paren-newline": [ "error", "consistent" ],
     "key-spacing": [ "error", { "mode": "minimum" } ],
