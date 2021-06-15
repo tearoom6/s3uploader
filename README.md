@@ -16,6 +16,7 @@ It's designed to be convenient to use with [sync-sync](https://atom.io/packages/
 - [ ] Support other storage services.
 - [x] Output as Markdown tag (image or link).
 - [x] Output as HTML tag (image or link).
+- [x] MinIO compability
 
 
 ## Usage
@@ -67,4 +68,10 @@ After installing this package:
 3. Select [Packages] and find s3uploader, then click [Settings].
 4. Set values properly like below.
 
-![settings](./images/settings.png)
+> Example of Amazon S3 settings
+
+![settings_s3](./images/settings_s3.png)
+
+> Example of MinIO settings
+
+![settings_minio](./images/settings_minio.png)
